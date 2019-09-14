@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=X_T-gbTo2hg
 
 Ruby on Rails - Railscasts PRO #380 Memcached & Dalli (pro)  
 https://www.youtube.com/watch?v=eO8tTPDEB8A  
-=====
+
 
 Dalli [![Build Status](https://secure.travis-ci.org/petergoldstein/dalli.svg)](http://travis-ci.org/petergoldstein/dalli) [![Dependency Status](https://gemnasium.com/petergoldstein/dalli.svg)](https://gemnasium.com/petergoldstein/dalli) [![Code Climate](https://codeclimate.com/github/petergoldstein/dalli.svg)](https://codeclimate.com/github/petergoldstein/dalli)
 =====
