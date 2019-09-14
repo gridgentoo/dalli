@@ -1,8 +1,15 @@
 # Original repository dalli  
 https://github.com/petergoldstein/dalli  
 
+Кэширование данных в web приложениях. Использование memcached / Юрий Краснощек (Delphi LLC, Dell)  
+https://www.youtube.com/watch?v=bQFwdg69gQE
+
+Александр Мочалыгин. Redis - это как memcache, только умеет сохранять на диск?  
+https://www.youtube.com/watch?v=KebkucRxUMU  
+
 Episode #018 - Caching with Dalli  
-https://www.youtube.com/watch?v=X_T-gbTo2hg  
+https://www.youtube.com/watch?v
+=X_T-gbTo2hg  
 
 Ruby on Rails - Railscasts PRO #380 Memcached & Dalli (pro)  
 https://www.youtube.com/watch?v=eO8tTPDEB8A  
